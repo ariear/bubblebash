@@ -1,0 +1,116 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+    background-color: #2F6B4F;
+    color: white;
+    padding-top: 215px;
+    padding-bottom: 350px;
+}
+
+.title-header {
+    width: 940px;
+    text-align: center;
+    margin: auto;
+    font-size: 60px;
+    margin-bottom: 24px;
+}
+
+.desc-header {
+    width: 730px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 45px;
+}
+
+.button-primary {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: max-content;
+    border-radius: 0;
+    padding: 20px 32px;
+    color: #2A2C3D;
+    font-weight: bold;
+}
+.button-primary img {
+    margin-left: 7px;
+}
+
+.image-office {
+    left: 0;
+    right: 0;
+    bottom: -270px;
+    margin: auto;
+}
+
+#counting {
+    color: #2A2C3D;
+    padding-top: 390px;
+    padding-bottom: 70px;
+}
+
+#services {
+    background-color: #F9F9F9;
+    color: #2A2C3D;
+}
+.card-service{
+    width: 260px;
+    padding: 24px;
+}
+
+#portofolio, #reviews {
+    color: #2A2C3D;
+}
+
+.card-porto p{
+    width: 360px;
+}
+
+.card-review {
+    width: max-content;
+    padding: 20px 17px;
+    border: 2px solid #2A2C3D;
+}
+.card-review p {
+    margin-bottom: 0;
+}
+.desc-review {
+    width: 290px;
+}
+
+#contact {
+    background-color: #2F6B4F;
+    color: white;
+    text-align: center;
+}
+
+#contact h1 {
+    width: 560px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+#contact p {
+    width: 570px;
+    margin: auto;
+    margin-bottom: 38px;
+}
+
+.rectangle {
+    position: absolute;
+    top: 0;
+    left: 100px;
+}
+.rectangle2 {
+    position: absolute;
+    top: 0;
+    left: 200px;
+}
+.rectangle3 {
+    position: absolute;
+    top: 0;
+    left: 300px;
+}
